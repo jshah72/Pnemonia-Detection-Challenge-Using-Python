@@ -1,2 +1,2 @@
 # Pnemonia-Detection-Challenge-Using-Python
-A Deep Learning Project to detect Pnemonia Using Histopathological Images of Chest X-ray
+Pnemonia Detection Using several architectures of CNN and comparing accuracy with multiple pretrained models.
